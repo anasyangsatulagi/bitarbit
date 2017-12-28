@@ -27,7 +27,7 @@ const Header = () => (
             textDecoration: 'none'
           }}
         >
-          asdasd
+          Arbitage profit calculation
         </Link>
       </h1>
     </div>
